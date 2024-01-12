@@ -1,0 +1,15 @@
+- Odesolve sudah di hapus atau di archive sejak 2013-05-20
+- Tpi disedain buat yang mau install mending ganti install desolve soalnya di rekomendasiin
+
+- Archived on 2013-05-20 on request of the maintainer who announced: 
+"The more recent package deSolve completely supersedes odesolve. 
+You should be able to use the function lsoda() from deSolve just as you did the one from odesolve."
+
+Terjemahan : "Paket deSolve yang lebih baru sepenuhnya menggantikan odesolve. 
+Anda seharusnya bisa menggunakan fungsi lsoda() dari deSolve seperti halnya Anda menggunakan 
+fungsi yang ada di odesolve."
+
+-Packages wajib install sesuai di modul karena semua ada kec odesolve yang ganti jadi desolve
+
+- Jika menemukan Error: object 'nama object yang dibuat' not found , solusinya run dulu object yang baru 
+di declare
