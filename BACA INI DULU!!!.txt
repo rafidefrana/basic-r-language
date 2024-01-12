@@ -9,7 +9,16 @@ Terjemahan : "Paket deSolve yang lebih baru sepenuhnya menggantikan odesolve.
 Anda seharusnya bisa menggunakan fungsi lsoda() dari deSolve seperti halnya Anda menggunakan 
 fungsi yang ada di odesolve."
 
--Packages wajib install sesuai di modul karena semua ada kec odesolve yang ganti jadi desolve
+-Packages wajib install 
+  -
+  -
+  -
+  -
+  -
+  -
+
+
+semua ada kec odesolve yang ganti jadi desolve
 
 - Jika menemukan Error: object 'nama object yang dibuat' not found , solusinya run dulu object yang baru 
 di declare
