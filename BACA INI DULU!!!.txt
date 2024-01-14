@@ -9,16 +9,21 @@ Terjemahan : "Paket deSolve yang lebih baru sepenuhnya menggantikan odesolve.
 Anda seharusnya bisa menggunakan fungsi lsoda() dari deSolve seperti halnya Anda menggunakan 
 fungsi yang ada di odesolve."
 
--Packages wajib install 
-  -
-  -
-  -
-  -
-  -
-  -
-
-
-semua ada kec odesolve yang ganti jadi desolve
+-Packages yang di pake saya 
+  - packages desolve
+  - packages akima
+  - packages chron
+  - packages lme4
+  - packages mcmc
+  - packages spdep
+  - packages spatstat
+  - packages tree
+  - packages xlsx
+  - packages taber
+KALO DAH INSTALL JANGAN LUPA CEKLIS PACKAGES NYA !!!
+Kalau simple pergi ke menu tools packages nah cari packages nya wajib ada internet baru install !!!
+#Untuk cara install tonton youtube !
+semua ada kecuali odesolve yang ganti jadi desolve
 
 - Jika menemukan Error: object 'nama object yang dibuat' not found , solusinya run dulu object yang baru 
 di declare
