@@ -20,6 +20,7 @@ fungsi yang ada di odesolve."
   - packages tree
   - packages xlsx
   - packages taber
+  - packages csv
 KALO DAH INSTALL JANGAN LUPA CEKLIS PACKAGES NYA !!!
 Kalau simple pergi ke menu tools packages nah cari packages nya wajib ada internet baru install !!!
 #Untuk cara install tonton youtube !
